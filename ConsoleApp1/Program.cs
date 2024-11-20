@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Фиксация раз!");
 Console.WriteLine("Фиксация два!");
+Console.WriteLine("Фиксация три!");
